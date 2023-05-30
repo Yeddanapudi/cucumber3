@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+
+  <test name="Test">
+<parameter name="userName" value="Admin"></parameter>
+<parameter name="passWord" value="admin123"></parameter>
+  
+    <classes>
+      <class name="TestN123.OrangeHrmpage"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
